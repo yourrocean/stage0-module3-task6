@@ -4,7 +4,7 @@ public class IntegerTypeCasting {
     public static void main(String[] args) {
         long first = 1000;
         int second = (int) first;
-        System.out.prinln(first);
+        System.out.println(first);
         System.out.println(second);
     }
 }
